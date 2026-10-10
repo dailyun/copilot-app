@@ -1,0 +1,198 @@
+[
+  {
+    "id": 1,
+    "name": "Ah Mei Steam Rice",
+    "centre": "Maxwell Food Centre",
+    "cuisine": "Chicken Rice",
+    "price": "S$4.50",
+    "rating": 4.7,
+    "halal": false,
+    "hours": {
+      "open": "10:00",
+      "close": "20:00"
+    },
+    "closedOn": "Monday"
+  },
+  {
+    "id": 2,
+    "name": "Harbour Bowl Laksa",
+    "centre": "Lau Pa Sat",
+    "cuisine": "Laksa",
+    "price": "S$5.20",
+    "rating": 4.5,
+    "halal": false,
+    "hours": {
+      "open": "11:00",
+      "close": "21:30"
+    },
+    "closedOn": null
+  },
+  {
+    "id": 3,
+    "name": "Airport Road Wok House",
+    "centre": "Old Airport Road Food Centre",
+    "cuisine": "Char Kway Teow",
+    "price": "S$4.80",
+    "rating": 4.6,
+    "halal": false,
+    "hours": {
+      "open": "12:00",
+      "close": "22:00"
+    },
+    "closedOn": "Tuesday"
+  },
+  {
+    "id": 4,
+    "name": "Satay Street No. 18",
+    "centre": "Lau Pa Sat",
+    "cuisine": "Satay",
+    "price": "S$12.00",
+    "rating": 4.4,
+    "halal": true,
+    "hours": {
+      "open": "17:00",
+      "close": "01:00"
+    },
+    "closedOn": null
+  },
+  {
+    "id": 5,
+    "name": "Tiong Bahru Coconut Rice",
+    "centre": "Tiong Bahru Market",
+    "cuisine": "Nasi Lemak",
+    "price": "S$3.80",
+    "rating": 4.3,
+    "halal": true,
+    "hours": {
+      "open": "07:00",
+      "close": "14:00"
+    },
+    "closedOn": "Wednesday"
+  },
+  {
+    "id": 6,
+    "name": "Chomp Chomp Prawn Noodles",
+    "centre": "Chomp Chomp Food Centre",
+    "cuisine": "Hokkien Mee",
+    "price": "S$6.50",
+    "rating": 4.8,
+    "halal": false,
+    "hours": {
+      "open": "17:00",
+      "close": "00:30"
+    },
+    "closedOn": "Monday"
+  },
+  {
+    "id": 7,
+    "name": "Newton Heritage Prata",
+    "centre": "Newton Food Centre",
+    "cuisine": "Roti Prata",
+    "price": "S$4.20",
+    "rating": 4.1,
+    "halal": true,
+    "hours": {
+      "open": "06:30",
+      "close": "13:30"
+    },
+    "closedOn": null
+  },
+  {
+    "id": 8,
+    "name": "Amoy Pepper Broth",
+    "centre": "Amoy Street Food Centre",
+    "cuisine": "Bak Kut Teh",
+    "price": "S$10.00",
+    "rating": 4.2,
+    "halal": false,
+    "hours": {
+      "open": "10:30",
+      "close": "15:00"
+    },
+    "closedOn": "Sunday"
+  },
+  {
+    "id": 9,
+    "name": "Tekka Morning Biryani",
+    "centre": "Tekka Centre",
+    "cuisine": "Biryani",
+    "price": "S$7.50",
+    "rating": 4.6,
+    "halal": true,
+    "hours": {
+      "open": "08:00",
+      "close": "15:30"
+    },
+    "closedOn": null
+  },
+  {
+    "id": 10,
+    "name": "Adam Road Lemak Corner",
+    "centre": "Adam Road Food Centre",
+    "cuisine": "Nasi Lemak",
+    "price": "S$5.80",
+    "rating": 4.4,
+    "halal": true,
+    "hours": {
+      "open": "09:00",
+      "close": "22:00"
+    },
+    "closedOn": "Friday"
+  },
+  {
+    "id": 11,
+    "name": "Maxwell Garden Popiah",
+    "centre": "Maxwell Food Centre",
+    "cuisine": "Popiah",
+    "price": "S$3.90",
+    "rating": 4.0,
+    "halal": false,
+    "hours": {
+      "open": "10:00",
+      "close": "16:00"
+    },
+    "closedOn": "Thursday"
+  },
+  {
+    "id": 12,
+    "name": "Tiong Bahru White Carrot",
+    "centre": "Tiong Bahru Market",
+    "cuisine": "Carrot Cake",
+    "price": "S$4.00",
+    "rating": 3.9,
+    "halal": false,
+    "hours": {
+      "open": "07:30",
+      "close": "13:00"
+    },
+    "closedOn": "Monday"
+  },
+  {
+    "id": 13,
+    "name": "Amoy Clear Fish Soup",
+    "centre": "Amoy Street Food Centre",
+    "cuisine": "Fish Soup",
+    "price": "S$6.20",
+    "rating": 4.5,
+    "halal": false,
+    "hours": {
+      "open": "11:00",
+      "close": "19:00"
+    },
+    "closedOn": "Saturday"
+  },
+  {
+    "id": 14,
+    "name": "Newton Midnight Skewers",
+    "centre": "Newton Food Centre",
+    "cuisine": "Satay",
+    "price": "S$11.50",
+    "rating": 3.8,
+    "halal": true,
+    "hours": {
+      "open": "18:00",
+      "close": "02:00"
+    },
+    "closedOn": null
+  }
+]
